@@ -29,6 +29,7 @@ dependencies {
 
 
 
+    compile 'com.github.Lollipope:TestHello:v1.0.0'
     compile 'com.jakewharton:butterknife:8.4.0'
     compile 'com.android.support:appcompat-v7:25.1.0'
     testCompile 'junit:junit:4.12'
